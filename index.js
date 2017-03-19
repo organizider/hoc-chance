@@ -1,4 +1,3 @@
-
 var distribution = new Array(360);
 var col = {
   
